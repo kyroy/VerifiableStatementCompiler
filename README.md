@@ -1,3 +1,5 @@
+### DEPRECATED: Moved to [ZoKrates](https://github.com/JacobEberhardt/ZoKrates)
+
 # VerifiableStatementCompiler
 
 ## Using VerifiableStatementCompiler
